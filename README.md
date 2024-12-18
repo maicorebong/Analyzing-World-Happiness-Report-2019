@@ -2,4 +2,6 @@ The World Happiness Report measures the overall state of global happiness by fac
 
 Here is the link to the slide pack used: https://drive.google.com/file/d/15q6585HzYGlcFx3PbSPpw5spmRCw_Ozx/view?usp=sharing
 
-Proponents of the project are Janine Cheong, Raymund Norada, Karen Salas, and Maico Rebong. This final project serves as a requirement in our Diploma Course in Foundations in Data Science under DLSU. This study was awarded Best in Data Analysis among the thirteen presentations.
+Proponents of the project are Janine Cheong, Raymund Norada, Karen Salas, and Maico Rebong. This final project serves as a requirement in our Diploma Course in Foundations in Data Science under DLSU.
+
+This study was awarded Best in Data Analysis among the thirteen presentations.
